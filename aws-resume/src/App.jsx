@@ -1,15 +1,16 @@
-import { useState } from 'react'
-import Header from './Header'
+import Header from './Components/Header'
 import './App.css'
-import Projects from './Projects'
-import WorkExperience from './Experience'
-import Education from './Education'
+import Projects from './Components/Projects'
+import WorkExperience from './Components/Experience'
+import Education from './Components/Education'
+import Skills from './Components/Skills'
 
 function App() {
 
   return (
     <>
       <Header />
+      <Skills />
       <Projects />
       <WorkExperience />
       <Education />
