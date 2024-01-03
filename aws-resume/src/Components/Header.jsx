@@ -7,10 +7,10 @@ const Header = () => {
         <header>
           <section id="contactInfo">
             <h1>Michael Gaynor</h1>
-            <h3>Chicago, IL</h3>
-            <h3>Email: mgaynor228@gmail.com</h3>
-            <h3>Linkedin: www.linkedin.com/in/mgaynor228/</h3>
-            <h3>Portfolio: https://portfilo.onrender.com/</h3>
+            <h5>Chicago, IL</h5>
+            <h5>Email: mgaynor228@gmail.com</h5>
+            <h5>Linkedin: www.linkedin.com/in/mgaynor228/</h5>
+            <h5>Portfolio: https://portfilo.onrender.com/</h5>
           </section>
           <section id="summary">
             <p>
