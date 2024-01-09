@@ -1,7 +1,0 @@
-
-name : Upload To S3 Website
-
-on:
-    push:
-      branches:
-        - main
